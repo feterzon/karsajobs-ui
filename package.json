@@ -12,7 +12,7 @@
     "dotenv": "^8.2.0",
     "moment": "^2.29.1",
     "vt-notifications": "^0.3.1",
-    "vue": "^2.6.11",
+    "vue": "^2.7.14",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.4.9"
   },
