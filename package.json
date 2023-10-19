@@ -14,7 +14,7 @@
     "vt-notifications": "^0.3.1",
     "vue": "^2.6.11",
     "vue-resource": "^1.5.1",
-    "vue-router": "^3.4.9"
+    "vue-router": "^3.6.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.2",
